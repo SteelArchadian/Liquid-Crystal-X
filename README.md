@@ -27,7 +27,7 @@ Liquid Crystal X is a rework of **Liquid Crystal** by **[kop4](https://www.devia
 
 What's different from the original: relative paths and a font loaded from the skin's own folder.
 
-Made with help from Claude (an AI).
+Made with AI assistance.
 
 ## Bugs and ideas
 
